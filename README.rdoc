@@ -5,5 +5,4 @@ http://localhost:3000/search?first_name=Brant&last_name=Nienow&ip_address=8.8.8.
 
 This app uses geocoder library to geocode ip address.
 
-Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
