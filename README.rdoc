@@ -2,9 +2,9 @@
 
 <tt>API Request example query</tt>
   
-http://localhost:3000/search?first_name=Brant&last_name=Nienow&ip_address=8.8.8.8
+<http://localhost:3000/search?first_name=Brant&last_name=Nienow&ip_address=8.8.8.8>
 
 <tt>This app uses geocoder library to geocode ip address.</tt>
 
-<tt>It currently doesn't handle timeout and assumes people names to be unique. 
+<tt>It currently doesn't handle timeout and assumes people's names to be unique. 
 If NSA API returns multiple people with same first and last name then it considers only the last person.</tt>
